@@ -1,0 +1,20 @@
+{
+  "name": "records-reconciler",
+  "version": "1.0.0",
+  "description": "Reconciles list of duplicate records based on selectors",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/app-unit.js leads.json"
+  },
+  "keywords": [
+    "dedup"
+  ],
+  "author": "Agni",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "^4.5.1",
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {}
+}

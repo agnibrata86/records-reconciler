@@ -1,0 +1,151 @@
+[2019-07-21T21:36:03.883] [INFO] default - New record with recordNumber[0] :  { _id: 'jkj238238jdsnfsj23',
+  email: 'foo@bar.com',
+  firstName: 'John',
+  lastName: 'Smith',
+  address: '123 Street St',
+  entryDate: '2014-05-07T17:30:20+00:00' }
+[2019-07-21T21:36:03.885] [INFO] default - Reconcilation for recordNumber[0] is as below: 
+[2019-07-21T21:36:03.885] [INFO] default - NEW RECORD with recordNumber[0] is unique.
+[2019-07-21T21:36:03.885] [INFO] default - =========================================================
+[2019-07-21T21:36:03.885] [INFO] default - New record with recordNumber[1] :  { _id: 'edu45238jdsnfsj23',
+  email: 'mae@bar.com',
+  firstName: 'Ted',
+  lastName: 'Masters',
+  address: '44 North Hampton St',
+  entryDate: '2014-05-07T17:31:20+00:00' }
+[2019-07-21T21:36:03.885] [INFO] default - Reconcilation for recordNumber[1] is as below: 
+[2019-07-21T21:36:03.885] [INFO] default - NEW RECORD with recordNumber[1] is unique.
+[2019-07-21T21:36:03.885] [INFO] default - =========================================================
+[2019-07-21T21:36:03.885] [INFO] default - New record with recordNumber[2] :  { _id: 'wabaj238238jdsnfsj23',
+  email: 'bog@bar.com',
+  firstName: 'Fran',
+  lastName: 'Jones',
+  address: '8803 Dark St',
+  entryDate: '2014-05-07T17:31:20+00:00' }
+[2019-07-21T21:36:03.885] [INFO] default - Reconcilation for recordNumber[2] is as below: 
+[2019-07-21T21:36:03.885] [INFO] default - NEW RECORD with recordNumber[2] is unique.
+[2019-07-21T21:36:03.885] [INFO] default - =========================================================
+[2019-07-21T21:36:03.885] [INFO] default - New record with recordNumber[3] :  { _id: 'jkj238238jdsnfsj23',
+  email: 'coo@bar.com',
+  firstName: 'Ted',
+  lastName: 'Jones',
+  address: '456 Neat St',
+  entryDate: '2014-05-07T17:32:20+00:00' }
+[2019-07-21T21:36:03.885] [INFO] default - Reconcilation for recordNumber[3] is as below: 
+[2019-07-21T21:36:03.885] [INFO] default - Latest CHANGE in record for duplicate selector - _id:
+[2019-07-21T21:36:03.886] [INFO] default - jkj238238jdsnfsj23 for entryDate - 2014-05-07T17:32:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [email] from foo@bar.com to coo@bar.com
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [firstName] from John to Ted
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [lastName] from Smith to Jones
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [address] from 123 Street St to 456 Neat St
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [entryDate] from 2014-05-07T17:30:20+00:00 to 2014-05-07T17:32:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - =========================================================
+[2019-07-21T21:36:03.886] [INFO] default - New record with recordNumber[4] :  { _id: 'sel045238jdsnfsj23',
+  email: 'foo@bar.com',
+  firstName: 'John',
+  lastName: 'Smith',
+  address: '123 Street St',
+  entryDate: '2014-05-07T17:32:20+00:00' }
+[2019-07-21T21:36:03.886] [INFO] default - Reconcilation for recordNumber[4] is as below: 
+[2019-07-21T21:36:03.886] [INFO] default - NEW RECORD with recordNumber[4] is unique.
+[2019-07-21T21:36:03.886] [INFO] default - =========================================================
+[2019-07-21T21:36:03.886] [INFO] default - New record with recordNumber[5] :  { _id: 'qest38238jdsnfsj23',
+  email: 'foo@bar.com',
+  firstName: 'John',
+  lastName: 'Smith',
+  address: '123 Street St',
+  entryDate: '2014-05-07T17:32:20+00:00' }
+[2019-07-21T21:36:03.886] [INFO] default - Reconcilation for recordNumber[5] is as below: 
+[2019-07-21T21:36:03.886] [INFO] default - Latest CHANGE in record for duplicate selector - email:
+[2019-07-21T21:36:03.886] [INFO] default - foo@bar.com for entryDate - 2014-05-07T17:32:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [_id] from sel045238jdsnfsj23 to qest38238jdsnfsj23
+[2019-07-21T21:36:03.886] [INFO] default - =========================================================
+[2019-07-21T21:36:03.886] [INFO] default - New record with recordNumber[6] :  { _id: 'vug789238jdsnfsj23',
+  email: 'foo1@bar.com',
+  firstName: 'Blake',
+  lastName: 'Douglas',
+  address: '123 Reach St',
+  entryDate: '2014-05-07T17:33:20+00:00' }
+[2019-07-21T21:36:03.886] [INFO] default - Reconcilation for recordNumber[6] is as below: 
+[2019-07-21T21:36:03.886] [INFO] default - NEW RECORD with recordNumber[6] is unique.
+[2019-07-21T21:36:03.886] [INFO] default - =========================================================
+[2019-07-21T21:36:03.886] [INFO] default - New record with recordNumber[7] :  { _id: 'wuj08238jdsnfsj23',
+  email: 'foo@bar.com',
+  firstName: 'Micah',
+  lastName: 'Valmer',
+  address: '123 Street St',
+  entryDate: '2014-05-07T17:33:20+00:00' }
+[2019-07-21T21:36:03.886] [INFO] default - Reconcilation for recordNumber[7] is as below: 
+[2019-07-21T21:36:03.886] [INFO] default - Latest CHANGE in record for duplicate selector - email:
+[2019-07-21T21:36:03.886] [INFO] default - foo@bar.com for entryDate - 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [_id] from qest38238jdsnfsj23 to wuj08238jdsnfsj23
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [firstName] from John to Micah
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [lastName] from Smith to Valmer
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [entryDate] from 2014-05-07T17:32:20+00:00 to 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - =========================================================
+[2019-07-21T21:36:03.886] [INFO] default - New record with recordNumber[8] :  { _id: 'belr28238jdsnfsj23',
+  email: 'mae@bar.com',
+  firstName: 'Tallulah',
+  lastName: 'Smith',
+  address: '123 Water St',
+  entryDate: '2014-05-07T17:33:20+00:00' }
+[2019-07-21T21:36:03.886] [INFO] default - Reconcilation for recordNumber[8] is as below: 
+[2019-07-21T21:36:03.886] [INFO] default - Latest CHANGE in record for duplicate selector - email:
+[2019-07-21T21:36:03.886] [INFO] default - mae@bar.com for entryDate - 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [_id] from edu45238jdsnfsj23 to belr28238jdsnfsj23
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [firstName] from Ted to Tallulah
+[2019-07-21T21:36:03.886] [INFO] default - Value for changed key: [lastName] from Masters to Smith
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [address] from 44 North Hampton St to 123 Water St
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [entryDate] from 2014-05-07T17:31:20+00:00 to 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.887] [INFO] default - =========================================================
+[2019-07-21T21:36:03.887] [INFO] default - New record with recordNumber[9] :  { _id: 'jkj238238jdsnfsj23',
+  email: 'bill@bar.com',
+  firstName: 'John',
+  lastName: 'Smith',
+  address: '888 Mayberry St',
+  entryDate: '2014-05-07T17:33:20+00:00' }
+[2019-07-21T21:36:03.887] [INFO] default - Reconcilation for recordNumber[9] is as below: 
+[2019-07-21T21:36:03.887] [INFO] default - Latest CHANGE in record for duplicate selector - _id:
+[2019-07-21T21:36:03.887] [INFO] default - jkj238238jdsnfsj23 for entryDate - 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [email] from coo@bar.com to bill@bar.com
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [firstName] from Ted to John
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [lastName] from Jones to Smith
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [address] from 456 Neat St to 888 Mayberry St
+[2019-07-21T21:36:03.887] [INFO] default - Value for changed key: [entryDate] from 2014-05-07T17:32:20+00:00 to 2014-05-07T17:33:20+00:00
+[2019-07-21T21:36:03.887] [INFO] default - =========================================================
+[2019-07-21T21:36:03.887] [INFO] default - *********************************************
+[2019-07-21T21:36:03.887] [INFO] default - { jkj238238jdsnfsj23: 
+   { _id: 'jkj238238jdsnfsj23',
+     email: 'bill@bar.com',
+     firstName: 'John',
+     lastName: 'Smith',
+     address: '888 Mayberry St',
+     entryDate: '2014-05-07T17:33:20+00:00' },
+  wabaj238238jdsnfsj23: 
+   { _id: 'wabaj238238jdsnfsj23',
+     email: 'bog@bar.com',
+     firstName: 'Fran',
+     lastName: 'Jones',
+     address: '8803 Dark St',
+     entryDate: '2014-05-07T17:31:20+00:00' },
+  vug789238jdsnfsj23: 
+   { _id: 'vug789238jdsnfsj23',
+     email: 'foo1@bar.com',
+     firstName: 'Blake',
+     lastName: 'Douglas',
+     address: '123 Reach St',
+     entryDate: '2014-05-07T17:33:20+00:00' },
+  wuj08238jdsnfsj23: 
+   { _id: 'wuj08238jdsnfsj23',
+     email: 'foo@bar.com',
+     firstName: 'Micah',
+     lastName: 'Valmer',
+     address: '123 Street St',
+     entryDate: '2014-05-07T17:33:20+00:00' },
+  belr28238jdsnfsj23: 
+   { _id: 'belr28238jdsnfsj23',
+     email: 'mae@bar.com',
+     firstName: 'Tallulah',
+     lastName: 'Smith',
+     address: '123 Water St',
+     entryDate: '2014-05-07T17:33:20+00:00' } }
